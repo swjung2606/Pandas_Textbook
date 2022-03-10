@@ -1,0 +1,5 @@
+1. bank marketing datas
+
+url = 'https://raw.githubusercontent.com/Sketchjar/MachineLearningHD/main/bank_marketing_dataset.csv'
+
+pd.read_csv(url)
